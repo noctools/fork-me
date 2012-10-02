@@ -8,4 +8,5 @@ What is this? I don't even
     var bacon = True;
     if (bacon) {
         eat(bacon);
+        alert("What if I said something else");
     }
